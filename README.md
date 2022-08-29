@@ -1,4 +1,4 @@
-# SRM_Code
+Guía SOA: Examen SRM
 
 El fin principal de la presente guía para obtener el título de actuario como alternativa a los talleres presenciales pospuestos por la pandemía es ayudar a los estudiantes de la facultad de ciencias que planean presentar el examen SRM de la SOA en los próximos meses a que tengan una visión de la prueba desde la perspectiva de un estudiante de la misma facultad y esperando que de alguna manera les ayude a aclarar el contenido del examen y descubrir su mejor manera de abordarlo. 
 
